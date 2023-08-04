@@ -1,5 +1,8 @@
+
 Gaji
+
 Slip gaji 
+
 Seperti Nama, Jabatan, Gaji Pokok, Tunjangan Tetap, dan PPh. Berikut rumusnya:
 
 ![image](https://github.com/ji33/Gaji/assets/109155518/34630b2b-8364-487d-ac14-d592f536fc6e)
