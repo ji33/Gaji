@@ -1,0 +1,2 @@
+# Gaji
+Slip gaji 
